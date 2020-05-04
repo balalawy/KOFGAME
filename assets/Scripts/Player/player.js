@@ -121,11 +121,5 @@ cc.Class({
         // 控制人物移动
         this.moveController();
 
-
-        // region 控制人物移动动画
-
-
-
-        // endregion
     },
 });
