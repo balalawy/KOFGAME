@@ -1,0 +1,79 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "HongKong",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6666666666666666,
+  "sample": 15,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "fd1af069-05ad-4ca9-a095-c6ad71a5bfa4"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "a21f51e1-8b72-4465-b5b1-993feb1cd6e8"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "a5d002bf-5e00-4d9a-a7ee-128d7c75bc00"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "d4cecc8d-0ab4-43e8-b83a-bb9fe9f0676b"
+            }
+          },
+          {
+            "frame": 0.26666666666666666,
+            "value": {
+              "__uuid__": "ecfc0339-aa8c-404f-8003-5e91ebe021ad"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "26e5faf8-d5c3-4591-b431-0d37831a5bf3"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "11cc8ea2-e074-4029-92b1-6b6880eda342"
+            }
+          },
+          {
+            "frame": 0.4666666666666667,
+            "value": {
+              "__uuid__": "883fe5d6-6d97-4243-afe9-019f83c806d5"
+            }
+          },
+          {
+            "frame": 0.5333333333333333,
+            "value": {
+              "__uuid__": "a1d97412-033b-4352-b5cd-759bbdb470e7"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "706dc400-ab0d-40a4-8875-2d73e385198d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

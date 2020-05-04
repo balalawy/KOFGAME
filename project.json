@@ -1,0 +1,9 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "KOFGame",
+  "uuid": "38b378d2-a6b6-480e-8fe9-c3fd3968bc5d",
+  "version": "2.3.3",
+  "id": "0d0ed465-60f0-4458-9807-e85f95b73089",
+  "isNew": false
+}
